@@ -27,7 +27,7 @@
                 <div class="flex-item box-block-top-menu">
                     <div class="block-logo">
                         <a href="../controller/index.php">
-                            <img src="../view/resources/images/logonew.png" alt="">
+                            <img src="../view/resources/images/unikey-logo.svg" alt="UniKeys">
                         </a>
                     </div>
                     <?php

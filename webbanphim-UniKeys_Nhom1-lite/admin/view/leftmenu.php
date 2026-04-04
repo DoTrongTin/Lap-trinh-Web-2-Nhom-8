@@ -30,7 +30,7 @@ if (!$ds_quyen) {
     <div class="flexbox">
         <!--Menu-->
         <div id="leftmenu">
-            <div class="logo"><img src="../view/layout/logo-icon/logonew.png"></div>
+            <div class="logo"><img src="../view/layout/logo-icon/unikey-logo.svg"></div>
             <ul>
                 <?php if ((bool) $ds_quyen['QLCuaHang']) : ?>
                 <li><img src="../view/layout/logo-icon/shop-icon.png"><a href="../controller/index.php?pg=cuahang">Cửa hàng</a></li>

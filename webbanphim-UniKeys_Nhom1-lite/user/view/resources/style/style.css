@@ -121,14 +121,23 @@ header .block-top-menu .box-block-top-menu {
   height: 62px;
 }
 header .block-top-menu .box-block-top-menu .block-logo {
-  -ms-flex: 0 -20%;
-  flex: 0 20%;
-  max-width: 20%;
-  padding: 10px 0;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  max-width: none;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+header .block-top-menu .box-block-top-menu .block-logo a {
+  display: flex;
+  align-items: center;
+  height: 62px;
 }
 header .block-top-menu .box-block-top-menu .block-logo img {
   max-width: 150px;
-  margin: 0 auto;
+  height: auto;
+  margin: 0;
   display: block;
 }
 header .block-top-menu .box-block-top-menu .block-search {

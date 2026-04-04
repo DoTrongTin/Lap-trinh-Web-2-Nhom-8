@@ -205,8 +205,8 @@ CREATE TABLE `hinhanhsach` (
 --
 
 INSERT INTO `hinhanhsach` (`idhinhanh`, `idbanphim`, `duongdananh`, `mota`, `trangthai`) VALUES
-(1, 1, 'img/akko_3098b_plus_black_gold/1.jpg', 'Ảnh góc nghiêng Akko 3098B Plus Black Gold', 1),
-(2, 1, 'img/akko_3098b_plus_black_gold/2.jpg', 'Ảnh cận cảnh Akko 3098B Plus Black Gold', 1),
+(1, 1, 'im/Kicap/1.webp', 'Ảnh góc nghiêng Akko 3098B Plus Black Gold', 1),
+(2, 1, 'img/Kicap/2.webp', 'Ảnh cận cảnh Akko 3098B Plus Black Gold', 1),
 (3, 2, 'img/keychron_v6_max_knob/1.jpg', 'Ảnh góc nghiêng Keychron V6 Max Knob', 1),
 (4, 2, 'img/keychron_v6_max_knob/2.jpg', 'Ảnh cận cảnh Keychron V6 Max Knob', 1),
 (5, 3, 'img/aula_f99_tri_mode_rgb/1.jpg', 'Ảnh góc nghiêng Aula F99 Tri-Mode RGB', 1),
