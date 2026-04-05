@@ -4,7 +4,7 @@
                     <div class="box-item-footer">
                         <div class="logo-footer">
                             <a href="">
-                                <img src="../view/resources/images/unikey-logo.svg" alt="">
+                                <img src="../view/resources/images/logo-unikey-1.png" alt="">
                             </a>
                         </div> 
                         <p><b>Địa chỉ: </b><?php echo $thongtin['diachi']; ?></p>

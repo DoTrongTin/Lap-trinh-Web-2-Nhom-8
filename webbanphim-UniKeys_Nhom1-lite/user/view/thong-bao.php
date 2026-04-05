@@ -65,7 +65,7 @@
      <div class="box-descript-modal">
          <h2>Sản phẩm đã được thêm vào giỏ hàng!</h2>
          <div class="logo-modal">
-             <a href="../controller/index.php"><img src="../view/resources/images/logonew.png" alt=""></a>
+             <a href="../controller/index.php"><img src="../view/resources/images/logo-unikey-1.png" alt=""></a>
          </div>
      </div>
  </div>
