@@ -124,7 +124,7 @@
                                     <div class="border"></div>
                                     <h2 class="labelquetQr">Hoặc quét mã Qr : </h2>
                                     <div class="qrcode">
-                                        <img id="qr-image" src="../../<?php echo $thongtin['anhQrCk']; ?>" alt="QR Code">
+                                        <img id="qr-image" src="../../img/qrcode/QrCode.png" alt="QR Code">
                                     </div>
                                 </div>
                             </div>
@@ -160,7 +160,7 @@
             <span class="closepopup"></span>
         </h1>
         <div class="box-descript-modal">
-            <h2>Cảm ơn bạn đã mua hàng tại Unikey!</h2>
+            <h2>Cảm ơn bạn đã mua hàng tại Unibook!</h2>
             <h2>Chúng tôi đã tiếp nhận đơn hàng của bạn với:</h2>
             <ul>
                 <li><b>Mã hóa đơn là: </b></li>
